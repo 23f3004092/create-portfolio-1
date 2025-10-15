@@ -1,10 +1,10 @@
-# Web Developer Portfolio
+# ML Engineer Portfolio
 
-This is a simple portfolio website designed for showcasing web development projects and skills.
+This is a portfolio website designed for showcasing machine learning engineering projects and skills.
 
 ## Features
-- About Me section
-- Projects section with individual project descriptions
+- About Me section with my details
+- Projects section demonstrating various ML projects
 - Contact form for inquiries
 
 ## Usage
